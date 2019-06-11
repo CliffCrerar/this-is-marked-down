@@ -1,0 +1,26 @@
+{
+  "name": "marked-down-from",
+  "version": "0.0.5",
+  "description": "This is a marked down project",
+  "main": "index.md",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CliffCrerar/marked-down-documenting.git"
+  },
+  "keywords": [
+    "marked",
+    "down"
+  ],
+  "author": "Cliff Crerar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CliffCrerar/marked-down-documenting/issues"
+  },
+  "homepage": "https://github.com/CliffCrerar/marked-down-documenting#readme",
+  "dependencies": {
+    "showdown": "^1.9.0"
+  }
+}
